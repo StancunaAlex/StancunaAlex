@@ -10,4 +10,4 @@ I'm currently working on growing my GitHub with useful, well-documented projects
 I also tinker with game development on itch.io, where I build small Unity/C# projects to sharpen my skills and explore game design.
 
 
-![Codewars](https://github.r2v.ch/codewars?user=Bgs16k&stroke=%23ffffff&theme=midnight_purple)
+![Codewars](https://github.r2v.ch/codewars?user=Troid&name=true&stroke=%23ffffff&theme=midnight_purple)
