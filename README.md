@@ -9,4 +9,4 @@ I'm currently working on growing my GitHub with useful, well-documented projects
 
 I also tinker with game development on itch.io, where I build small Unity/C# projects to sharpen my skills and explore game design.
 
-https://github-readme-codewars-stats.herokuapp.com/api/?username=TopolM16k&badge&colormode=dark_mode
+
